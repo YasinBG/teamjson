@@ -1,0 +1,56 @@
+{
+    "yapilacaklar": [
+      {
+        "id": 1,
+        "baslik": "Kitap Oku",
+        "icerik": "Harry Potter Kitabindan 30 Sayfa Oku",
+        "yapildi": true
+      },
+      {
+        "id": 2,
+        "baslik": "Ingilizce Dizi Izle",
+        "icerik": "Sherlock Holmes 2.Sezon 3.Bolum Izle",
+        "yapildi": false
+      },
+      {
+        "id": 3,
+        "baslik": "Alisveris Yap",
+        "icerik": "Sebze ve Meyve Al",
+        "yapildi": false
+      }
+      
+    ],
+
+    "kisiler":[
+      {
+      "name":"Kral Sakir",
+      "gorevi":"Front-end Developer",
+      "bilgi":"lorem ipsum dolar sit amet. lorem ipsum dolar sit amet."
+      
+      },
+
+      {
+        "name":"Necati",
+        "gorevi":"UI-UX Designer",
+        "bilgi":"lorem ipsum dolar sit amet. lorem ipsum dolar sit amet."
+        },
+
+        {
+          "name":"Canan",
+          "gorevi":"Fullstack Developer",
+          "bilgi":"lorem ipsum dolar sit amet. lorem ipsum dolar sit amet."
+          },
+
+          {
+            "name":"Remzi",
+            "gorevi":"Back-end Developer",
+            "bilgi":"lorem ipsum dolar sit amet. lorem ipsum dolar sit amet."
+          }
+      
+
+    ]
+
+
+
+
+  }
